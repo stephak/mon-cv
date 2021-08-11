@@ -1,0 +1,60 @@
+:root
+{/* CSS HEX */
+--imperial-red: #e63946ff;
+--honeydew: #f1faeeff;
+--powder-blue: #a8dadcff;
+--celadon-blue: #457b9dff;
+--prussian-blue: #1d3557ff;
+}
+
+html
+{
+	background-color: var(--honeydew);
+}
+
+body
+{
+	background-color: white;
+	width:80%;
+	margin:auto;
+	padding: 20px;
+}
+
+#experiences
+{
+	background-color: var(--powder-blue);
+}
+
+#formations
+{
+	background-color: var(--celadon-blue);
+}
+
+#centres_interet
+{
+	background-color: var(--prussian-blue);
+}
+
+.experience
+{
+	background-color: red;
+	margin: 10px;
+}
+
+.titre
+{
+	font-style: italic;
+	padding: 10px;
+	margin-bottom: 10px;
+
+}
+
+.nom_entreprise
+{
+text-transform: uppercase;	
+}
+
+
+
+
+
